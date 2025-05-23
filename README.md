@@ -6,21 +6,25 @@ Welcome to my GitHub Todo App!
 ## About Me
 
 - 🔭 I’m currently working on Software Test Engineer
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate on python or data projects
+- I’m currently learning Python and Javascript
+- I’m looking to collaborate on python or data projects
 - 💬 Ask me about QA, testing and automation
-- 📫 How to reach me: [your contact information]
-- 
+  
 ## My Skills
 
 - **Languages:**
-  TCL, Bash and Python
+  - TCL
+  - Bash
+  - Python
 
 - **Frameworks and Libraries:**
-  - [Frameworks and libraries you frequently use]
+  - Python
+  - Selenium
 
 - **Tools and Platforms:**
-  - [Development tools, platforms, and environments you are familiar with]
+  - RHEL
+  - Linux CLI and GUI
+  - Python script's development
 
 ## GitHub Stats
 
@@ -34,8 +38,7 @@ Welcome to my GitHub Todo App!
 
 ## Get in Touch
 
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Email](mailto:your-email-address)
+- [LinkedIn](https://www.linkedin.com/in/manuel-wong-5b07251bb/)
+- [Email](mailto:j.m.w.r@hotmail.com)
 
 Thank you for visiting my profile!
