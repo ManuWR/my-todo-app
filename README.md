@@ -6,8 +6,8 @@ Welcome to my GitHub Todo App!
 ## About Me
 
 - 🔭 I’m currently working on Software Test Engineer
-- I’m currently learning Python and Javascript
-- I’m looking to collaborate on python or data projects
+- 🤖 I’m currently learning Python and Javascript
+- 👥 I’m looking to collaborate on python or data projects
 - 💬 Ask me about QA, testing and automation
   
 ## My Skills
