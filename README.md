@@ -38,6 +38,8 @@ Welcome to my GitHub Todo App!
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuWR&repo=app2&theme=radical)](https://github.com/ManuWR/app2)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuWR&repo=Proyectos&theme=radical)](https://github.com/ManuWR/Proyectos)
+
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/manuel-wong-5b07251bb/)
