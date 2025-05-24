@@ -32,11 +32,11 @@ Welcome to my GitHub Todo App!
 
 ## Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuWR&repo=repository-name&theme=radical)](https://github.com/ManuWR/python_practice)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuWR&repo=python_practice&theme=radical)](https://github.com/ManuWR/python_practice)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuWR&repo=another-repository&theme=radical)](https://github.com/ManuWR/my-todo-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuWR&repo=my-todo-app&theme=radical)](https://github.com/ManuWR/my-todo-app)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuWR&repo=another-repository&theme=radical)](https://github.com/ManuWR/app2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuWR&repo=app2&theme=radical)](https://github.com/ManuWR/app2)
 
 ## Get in Touch
 
